@@ -1,0 +1,17 @@
+{
+  "name": "test_backend_developer_2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
